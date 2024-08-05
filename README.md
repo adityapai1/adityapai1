@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 POWEBI<br>👯 DataPipeline<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently working on:
+
+Building Dashboards.
+Integrating them with Data Pipelines.
+
+👯 I'm looking to collaborate on:
+
+Data analytics projects.
+Machine learning applications.
+Business intelligence initiatives.
+
+🤝 I'm looking for help with:
+
+Advanced SAP systems and architectures.
+Data pipeline optimization techniques.
+
 
 
 # 💻 Tech Stack:
